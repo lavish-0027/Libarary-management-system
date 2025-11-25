@@ -64,8 +64,7 @@ CREATE TABLE borrowed_books (
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/agharsh53/library-management-system.git
-```
+git clone https://github.com/lavish-0027/Libarary-management-system
 
 ### Step 2: Import Project
 - Open the project in an IDE like **Eclipse** or **IntelliJ IDEA**.
@@ -122,5 +121,6 @@ Contributions are welcome! Please fork this repository, create a new branch, and
 ---
 
 ## Maintainer
-- **Name:** Harsh Kumar Agrawal 
-- **Email:** agrawalharsh2653@gmail.com
+- **Name:** Lavish Kumar 
+- **Email:** lavishkumar121229@gmail.co
+
