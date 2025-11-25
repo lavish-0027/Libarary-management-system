@@ -122,5 +122,6 @@ Contributions are welcome! Please fork this repository, create a new branch, and
 
 ## Maintainer
 - **Name:** Lavish Kumar 
-- **Email:** lavishkumar121229@gmail.co
+- **Email:** lavishkumar121229@gmail.com
+
 
